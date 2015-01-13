@@ -5,15 +5,11 @@ languages: bash
 
 # Forking and Cloning Labs from Github
 
-When you click on a link to a lab you should see something like this:
-
-![Ironboard](https://s3-us-west-2.amazonaws.com/readme-photos/ib-1.png)
-
-## Forking from Github
+### Forking from Github
 
 Forking is a feature of github that creates a copy of a repository on your account. When you solve a lab, you'll be coding the solution not on the deployed copy of the lab that everyone has access too, but rather, on your copy, your fork.
 
-### How to Fork
+#### How to Fork
 
 1. Click on the Fork Button
 
