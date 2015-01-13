@@ -3,22 +3,9 @@ tags: git, github, bash, command line, ironboard, tutorial
 languages: bash
 ---
 
-# Your First Lab
+# Forking and Cloning Labs from Github
 
-On Ironboard, labs are exercises you have to complete.
-
-The goal of this lab is to practice the workflow to complete a lab and to see if you can make a new file or directory using terminal.
-
-To complete this lab you will have to:
-
-1. Fork the lab via github.
-2. Clone your fork.
-3. Create a new file.
-4. Commit that file.
-5. Push that commit to your fork.
-6. Open a Pull Request for your fork.
-
-Your first step is to scroll down to the bottom of the page, which will direct you to the lab on Github. You should see something like this:
+When you click on a link to a lab you should see something like this:
 
 ![Ironboard](https://s3-us-west-2.amazonaws.com/readme-photos/ib-1.png)
 
