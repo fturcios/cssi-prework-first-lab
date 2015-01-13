@@ -56,15 +56,13 @@ _Note: If you have 2-factor-authentication on github turned on this won't work. 
 
 After you've completed a lab post your work onto github with the following steps.
 
-1. Stage your changes for commit.
+1. Stage your changes for commit with
 
 `git add .`
 
+2. And confirm that the file is staged for commit with `git status`
+
 ![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/3-solving-the-lab.png)
-
-2. Confirm that the file is staged for commit with `git status`
-
-![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/4-solving-the-lab.png)
 
 3. Commit the file.
 
@@ -83,8 +81,6 @@ After you've completed a lab post your work onto github with the following steps
 ![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/7-solving-the-lab.png)
 
 ## Opening a Pull Request
-
-Open the lab in [Github](www.github.com) (the end of step 5 above).
 
 1. Click on the branch comparison icon from the repository home.
 
