@@ -70,7 +70,7 @@ After you've completed a lab post your work onto github with the following steps
 
 ![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/5-solving-the-lab.png)
 
-4. Push that to your fork, up to github.
+4. Push your work up to your fork on github.
 
 `git push`
 
@@ -80,7 +80,7 @@ After you've completed a lab post your work onto github with the following steps
 
 ![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/7-solving-the-lab.png)
 
-## Opening a Pull Request
+### Opening a Pull Request
 
 1. Click on the branch comparison icon from the repository home.
 
