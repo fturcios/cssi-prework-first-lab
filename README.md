@@ -1,5 +1,5 @@
 ---
-tags: git, github, bash, command line, ironboard, tutorial
+tags: git, github, bash, command line, learn, tutorial
 languages: bash
 ---
 
