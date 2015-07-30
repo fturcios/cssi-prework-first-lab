@@ -1,7 +1,4 @@
----
-tags: git, github, bash, command line, learn, tutorial
-languages: bash
----
+
 
 # Forking and Cloning Labs from Github
 
