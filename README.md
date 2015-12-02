@@ -97,3 +97,5 @@ After you've completed a lab post your work onto github with the following steps
 
 
 
+
+<a href='https://learn.co/lessons/hs-github-fork-clone-public' data-visibility='hidden'>View this lesson on Learn.co</a>
