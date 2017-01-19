@@ -26,7 +26,7 @@ Cloning means bringing down a copy of a git repository from a remote source (lik
 
 #### How to Clone
 
-1. Copy your Clone URL, it should start with https://
+1. Copy your Clone URL, it should start with git@github.com (if you've set up SSH) or https:// (if you haven't)
 
 ![Your Fork Clone URL](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/1-how-to-clone.png)
 
@@ -34,7 +34,7 @@ Cloning means bringing down a copy of a git repository from a remote source (lik
 
 ![git clone](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/2-how-to-clone.png)
 
-3. Enter in your github credentials.
+3. If using https, enter in your github credentials.
 
 ![github authentication](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/3-how-to-clone.png)
 
@@ -44,14 +44,14 @@ _Note: If you have 2-factor-authentication on github turned on this won't work. 
 
 ![All good](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/4-how-to-clone.png)
 
-5. cd into the lab directory so you can get to work!
+5. `cd` into the lab directory so you can get to work!
 
 ![All good](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/5-how-to-clone.png)
 
 
 ### Posting Your Work on Github
 
-After you've completed a lab post your work onto github with the following steps.
+After you've completed a lab, post your work onto github with the following steps.
 
 1. Stage your changes for commit with
 
@@ -76,26 +76,3 @@ After you've completed a lab post your work onto github with the following steps
 5. Go to github and confirm the push.
 
 ![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/7-solving-the-lab.png)
-
-### Opening a Pull Request
-
-1. Click on the branch comparison icon from the repository home.
-
-![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/1-opening-pull-request.png)
-
-2. Click Create Pull Request
-
-![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/2-opening-pull-request.png)
-
-3. Confirm the Create Pull Request
-
-![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/3-opening-the-pull-request.png)
-
-
-
-
-
-
-
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-github-fork-clone-public' title='Forking and Cloning Labs from Github'>Forking and Cloning Labs from Github</a> on Learn.co and start learning to code for free.</p>
